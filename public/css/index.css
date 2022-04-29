@@ -1,0 +1,46 @@
+body{
+    background-color: #5c9090;
+}
+
+.btnSignIn{
+    background-color: #a5b2b5;
+}
+
+.index-container{
+    justify-content: center;
+    align-items: center;
+}
+/* banner */
+.banner{
+    margin-top: 3em;
+}
+
+/* card post */
+.card-post {
+    margin-bottom: 2em;
+    border-radius: 0.8em;
+    background-color: #FFE9CB;
+    }
+.card-post .card-body {
+    padding: 0 1em 1em;
+    }
+.card-post .card-img-top {
+    padding: 0.8em;
+    }
+.card-post .profile img {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    vertical-align: text-top;
+    margin-right: 5px;
+}
+.card-post .profile{
+    color: black;
+}
+.post-caption{
+    color: black;
+}
+.card-post .profile a {
+    text-decoration: none;
+    color: unset;
+}
